@@ -1,0 +1,10 @@
+/*
+!.gitignore
+!/bspwm/
+!/nvim/
+!/catnap/
+!/gtk-3.0/
+!/kitty/
+!/rofi/
+!/sxhkd/
+!/zathura/
